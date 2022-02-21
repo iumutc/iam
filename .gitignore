@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea
+/iamd.iml
+/.idea/compiler.xml
